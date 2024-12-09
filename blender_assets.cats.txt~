@@ -1,0 +1,9 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+0eda1d5f-1a16-4472-a918-d8fc487ab93a:Facial_Expressions:Facial_Expressions
